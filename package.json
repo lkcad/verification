@@ -1,0 +1,14 @@
+{
+  "name": "verification_js_kdp",
+  "version": "1.0.1",
+  "description": "'verification form'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "verification"
+  ],
+  "author": "孔德鹏",
+  "license": "ISC"
+}
